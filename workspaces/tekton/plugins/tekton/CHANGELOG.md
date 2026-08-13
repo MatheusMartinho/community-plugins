@@ -1,5 +1,11 @@
 # @backstage-community/plugin-tekton
 
+## 3.41.1
+
+### Patch Changes
+
+- f805ea0: Added spacing to the pipeline run log viewer dialog between the task sidebar and log content area
+
 ## 3.41.0
 
 ### Minor Changes
